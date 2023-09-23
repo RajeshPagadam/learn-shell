@@ -1,7 +1,10 @@
 # learn-shell
 
-Bash shell scripting demo
+Bash Shell Scripting
 
-List of commands 
+Here are the list of Shell Topics.
 
-1. echo is for printing
+1. Printing with echo command
+2. Variables 
+3. Functions 
+4. FUN2
